@@ -1,3 +1,3 @@
 ## My Site
 
-This repo hold my *awesome* **website**
+This repo holds my *awesome* **website** 
